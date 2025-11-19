@@ -1,0 +1,32 @@
+#fondo {
+    background-color: orange;
+    width: 400px;
+    height: 200px;
+    margin-inline: 30%;
+    margin-top: 20%;
+    padding-top: 200px;
+}
+
+#secreto {
+    background-color: yellow;
+    width: 200px;
+    height: 40%;
+    margin:auto;
+   
+    }
+
+#secreto:active {
+    background-color: lime;
+}
+
+#tpa {
+    background-color: red;
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    transform: translateY(-40%)
+    }
+
+#tapa:hover {
+    display: none;
+}
