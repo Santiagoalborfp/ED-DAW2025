@@ -9,7 +9,7 @@
     width: 100%;
     background-color: blueviolet;
     height: 80px;
-    text-align: center;
+    text-align:center;
     border: solid 2px;
 }
 .Contenedor3{
@@ -26,16 +26,16 @@ height: 500px;
 background-color: rgb(219, 188, 14);
 border: solid 2px;
 display: inline-block;
-margin-left: -115px;
+margin-left: -120px;
 border-collapse: collapse;
 }
 .Contenedor5{
 width: 49.5%;
 height: 500px;
-background-color: rgb(219, 188, 14);
+background-color: rgb(14, 219, 134);
 border: solid 2px;
 display: inline-block;
-margin-right: -30px;
+margin-right: -25px;
 border-collapse: collapse;
 }
 .Contenedor6{
