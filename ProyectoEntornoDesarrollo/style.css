@@ -3,56 +3,60 @@
     background-color: aqua;
     height: 100px;
     text-align: center;
-    border: solid 2px;
+    border: solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
 }
 .Contenedor2{
     width: 100%;
     background-color: blueviolet;
     height: 80px;
     text-align:center;
-    border: solid 2px;
+    border: solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .Contenedor3{
     width: 100%;
     height: 500px;
-    background-color: blanchedalmond;
-    text-align: center;
-    border: solid 2px;
-    border-collapse: collapse;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .Contenedor4{
-width: 49.5%;
+width: 50%;
 height: 500px;
 background-color: rgb(219, 188, 14);
-border: solid 2px;
-display: inline-block;
-margin-left: -120px;
-border-collapse: collapse;
+display: flex;
+justify-content: center;
+align-items: center;
+float: left;
 }
 .Contenedor5{
-width: 49.5%;
+width: 50%;
 height: 500px;
 background-color: rgb(14, 219, 134);
-border: solid 2px;
-display: inline-block;
-margin-right: -25px;
-border-collapse: collapse;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .Contenedor6{
 width: 100%;
-height: 250px;
+height: 300px;
 background-color: rgb(219, 188, 14);
-border: solid 2px;
-display: inline-block;
-
-border-collapse: collapse;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .Contenedor7{
 width: 100%;
-height: 250px;
-background-color: rgb(219, 188, 14);
-border: solid 2px;
-display: inline-block;
-
-border-collapse: collapse;
+height: 300px;
+background-color: rgb(14, 219, 58);
+display: flex;
+justify-content: center;
+align-items: center;
 }
